@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_爱消除.-2033103895.00" t="ExcludeRecursive" />
+    <e p="F:\Unity\爱消除" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Scripts" t="Include">
+        <e p="Grid" t="Include">
+          <e p="Grid.cs" t="Include" />
+        </e>
+        <e p="Level" t="Include">
+          <e p="Level.cs" t="Include" />
+          <e p="LevelMoves.cs" t="Include" />
+          <e p="LevelObStacle.cs" t="Include" />
+          <e p="LevelTimer.cs" t="Include" />
+        </e>
+        <e p="Pieces" t="Include">
+          <e p="ClearColor.cs" t="Include" />
+          <e p="ClearLinkPieces.cs" t="Include" />
+          <e p="ClearPieces.cs" t="Include" />
+          <e p="ColorPieces.cs" t="Include" />
+          <e p="GamePiece.cs" t="Include" />
+          <e p="MovablePiece.cs" t="Include" />
+        </e>
+        <e p="UI" t="Include">
+          <e p="GameOver.cs" t="Include" />
+          <e p="HUD.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="爱消除.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
